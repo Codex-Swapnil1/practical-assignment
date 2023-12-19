@@ -1,0 +1,17 @@
+
+.topside{
+  background-color: #17478d;
+  color: white;
+  text-align: end;
+  padding: 5px 7%;
+
+}
+.topside span{
+  padding: 2px;
+  margin-right: 10px;
+  border:  1px solid black;
+}
+.contact_us{
+  background-image: url("Background.webp");
+  height: 350px;
+}
