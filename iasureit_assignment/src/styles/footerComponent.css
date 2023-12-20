@@ -1,0 +1,15 @@
+.services_list li{
+    list-style:none;
+  }
+  .services_list li::before{
+    /* Unicode for >> character */
+              content: "\00BB";
+  }
+  .copyright{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    background-color: #133a75;
+    color: white;
+    padding: 1.5% 7%;
+  }
