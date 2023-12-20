@@ -1,9 +1,61 @@
+.footer_top{
+    background-color: #17478d;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 14px;
+    padding: 3% 7%;
+  }
+.services_list{
+    padding: 0px ;
+    margin-top: 0px;
+}
 .services_list li{
     list-style:none;
+    margin-bottom: 5px;
   }
   .services_list li::before{
     /* Unicode for >> character */
               content: "\00BB";
+              margin-right: 5px;
+  }
+  .social_media_logo{
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  .social_media_logo>span{
+    background-color: white;
+    color: #17478d;
+    margin-right: 12px;
+    padding: 3px;
+    border-radius: 3px;
+  }
+  .globe_logo{
+    background-color: white;
+    color: #17478d;
+    margin-right: 12px;
+    padding: 3px;
+    text-align: center;
+    border-radius: 3px;
+  }
+  #our_service_box{
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+    flex-wrap: wrap;
+  }
+  #getin_touch_box{
+    word-wrap: break-word;
+    max-width: 250px;
+    min-width: 180px;
+    margin-bottom: 30px;
+  }
+  .footer_contact_box{
+    margin-bottom: 6px;
+  }
+  .footer_contact_box>span{
+    margin-right: 5px;
   }
   .copyright{
     display: flex;
