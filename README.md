@@ -17,8 +17,13 @@ All the copyrights belong to iAssure International Technology Pvt Ltd.
  
  ## HomePage
 
-## Home Page
-<img width="80%" src="https://user-images.githubusercontent.com/112969807/229422160-0533cd57-b994-41ac-b957-d6afd565c465.png"> <br> 
+## Home Page top
+<img width="80%" src="https://github.com/Codex-Swapnil1/practical-assignment/blob/main/iasureit_assignment/src/Assets/homepageTop.png?raw=true"> <be> 
+## Home Page Body
+<img width="80%" src="https://github.com/Codex-Swapnil1/practical-assignment/blob/main/iasureit_assignment/src/Assets/homepageMiddle.png?raw=true"> <br> 
+## Home Page Bottom
+<img width="80%" src="https://github.com/Codex-Swapnil1/practical-assignment/blob/main/iasureit_assignment/src/Assets/homepageBottom.png?raw=true"> <br> 
+
 
 
 
