@@ -1,6 +1,6 @@
 # iAssure Technical Assignment
 
-# website for Assignment
+# Website for Assignment
 
 All the copyrights belong to iAssure International Technology Pvt Ltd.
 
@@ -32,4 +32,4 @@ All the copyrights belong to iAssure International Technology Pvt Ltd.
 
 
 
-# practical-assignment
+# Practical-assignment
